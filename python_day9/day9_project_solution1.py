@@ -1,4 +1,4 @@
-from art import logo
+from python_day10.art import logo
 import os
 
 print(logo)
